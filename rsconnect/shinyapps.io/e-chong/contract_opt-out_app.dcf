@@ -1,0 +1,12 @@
+name: contract_opt-out_app
+title:
+username:
+account: e-chong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1707300
+bundleId: 2756933
+url: https://e-chong.shinyapps.io/contract_opt-out_app/
+when: 1580162894.00292
+asMultiple: FALSE
+asStatic: FALSE
